@@ -8,6 +8,7 @@ _We design and build underwater ROVs for the international MATE ROV Competition.
 > Individually we are one drop, together we are an Ocean.
 
 [🌐 Website](https://politocean.polito.it) ·
+[📘 Handbook](https://politocean.github.io/handbook/) ·
 [💼 LinkedIn](https://www.linkedin.com/company/team-politocean/) ·
 [📷 Instagram](https://www.instagram.com/politocean/) ·
 [▶️ YouTube](https://www.youtube.com/@politocean)
@@ -39,6 +40,12 @@ The team is organized into three departments:
 | [`NEXUS`](https://github.com/PoliTOcean/NEXUS) | Control GUI for EVA |
 | [`Float`](https://github.com/PoliTOcean/Float) | Firmware for the float project |
 | [`website`](https://github.com/PoliTOcean/website) | The team's official website |
+
+## 📖 Team handbook
+
+New to the team or want to know how we work? Read our
+**[handbook & internal docs →](https://politocean.github.io/handbook/)**
+(onboarding, organization, processes).
 
 ## 🤝 Want to join?
 
